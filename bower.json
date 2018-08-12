@@ -1,0 +1,21 @@
+{
+  "name": "purescript-alphasucc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinwoo/purescript-alphasucc.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0"
+  },
+  "devDependencies": {
+    "purescript-console": "^4.1.0",
+    "purescript-expect-inferred": "^0.1.0"
+  }
+}
